@@ -19,7 +19,7 @@ pytest==4.6.7 ; python_version <= '2.7'
 py==1.10.0
 pygments==2.7.4; python_version >= '3.6'
 mock==2.0.0
-requests==2.20.0
+requests==2.31.0
 boto3==1.15.16
 websocket-client==0.54.0
 hypothesis==4.43.1
